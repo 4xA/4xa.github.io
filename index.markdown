@@ -9,13 +9,9 @@ layout: home
 I am an experienced Software Engineer with {% include years_of_experience.html %}+ years of experience developing
 production quality robust and scalable high-availaibity software solutions that drive key bussiness operations in
 insights and analaytics.
-<br />
-<br />
 
 ## Skills
- - Skill 1
- - Skill 2
- - Skill 3
+{% include skills.html %}
 
 ## Projects
 

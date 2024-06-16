@@ -1,0 +1,34 @@
+- name: Docker
+  emoji: ":whale:"
+- name: Git
+  emoji: ":octocat:"
+- name: Kubernetes
+  emoji: ":four_leaf_clover:"
+- name: Linux
+  emoji: ":tux:"
+- name: Cloud Platforms (AWS, GCP, Azure)
+  emoji: ":cloud:"
+- name: Infrastructure as Code (Terraform, Ansible)
+  emoji: ":gear:"
+- name: Programming Languages (Python, Java, Go)
+  emoji: ":computer:"
+- name: Version Control Systems (Git, SVN)
+  emoji: ":git:"
+- name: CI/CD Pipelines (Jenkins, GitLab CI/CD)
+  emoji: ":construction:"
+- name: Unit Testing (Jest, Mocha)
+  emoji: ":hammer_and_wrench:"
+- name: API Design
+  emoji: ":handshake:"
+- name: Database Technologies (SQL, NoSQL)
+  emoji: ":database:"
+- name: Agile Methodologies (Scrum, Kanban)
+  emoji: ":pushpin:"
+- name: Communication and Collaboration
+  emoji: ":speak_no_evil::hear_no_evil::see_no_evil:"
+- name: Problem Solving and Critical Thinking
+  emoji: ":thinking:"
+- name: Time Management and Organization
+  emoji: ":hourglass:"
+- name: Continuous Learning
+  emoji: ":books:"

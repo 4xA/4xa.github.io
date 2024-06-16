@@ -1,12 +1,15 @@
-- screenshot: /assets/images/screenshots/project.jpg
-  title: Project
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac leo ac lectus cursus maximus. Nulla dictum gravida auctor. Sed eu mattis justo. Cras mauris nunc, molestie ut efficitur ut, eleifend eu lectus. Donec 
-- screenshot: /assets/images/screenshots/project.jpg
-  title: Project
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac leo ac lectus cursus maximus. Nulla dictum gravida auctor. Sed eu mattis justo. Cras mauris nunc, molestie ut efficitur ut, eleifend eu lectus. Donec 
-- screenshot: /assets/images/screenshots/project.jpg
-  title: Project
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac leo ac lectus cursus maximus. Nulla dictum gravida auctor. Sed eu mattis justo. Cras mauris nunc, molestie ut efficitur ut, eleifend eu lectus. Donec 
-- screenshot: /assets/images/screenshots/project.jpg
-  title: Project
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac leo ac lectus cursus maximus. Nulla dictum gravida auctor. Sed eu mattis justo. Cras mauris nunc, molestie ut efficitur ut, eleifend eu lectus. Donec 
+- name: Mars Rover Exploration
+  screenshot: https://upload.wikimedia.org/wikipedia/commons/6/69/Screenshot_Desktop_Ubuntu_20.04_Focal_Fossa_2160p.png
+  description: Explore the surface of Mars with NASA's rovers, capturing stunning images and collecting valuable data about the Red Planet.
+
+- name: Deep Sea Diving Adventure
+  screenshot: https://upload.wikimedia.org/wikipedia/commons/6/6c/Gnome-screenshot_taking_a_screenshot.png
+  description: Embark on an underwater expedition to the depths of the ocean, discovering a world of alien creatures and mesmerizing landscapes.
+
+- name: Virtual Reality Experience
+  screenshot: https://live.staticflickr.com/3506/3193259333_7dbc76d851_b.jpg
+  description: Step into a world of limitless possibilities with virtual reality, where you can explore new dimensions, engage in interactive experiences, and push the boundaries of reality.
+
+- name: Artificial Intelligence Breakthroughs
+  screenshot: https://upload.wikimedia.org/wikivoyage/en/e/e3/En_main_screenshot_20170214.jpg
+  description: Witness the transformative power of artificial intelligence as it revolutionizes industries, redefines human-computer interaction, and shapes the future of technology.
