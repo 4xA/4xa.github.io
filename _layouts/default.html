@@ -15,6 +15,11 @@
 
     {%- include footer.html -%}
 
+    <script>
+        window.onload = (event) => {
+            document.getElementById("years-of-experience").innerText = (new Date()).getFullYear() - 2019;
+        };
+    </script>
   </body>
 
 </html>

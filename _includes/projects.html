@@ -1,0 +1,14 @@
+<div>
+    {% for project in site.data.projects %}
+    <div class="flex flex-row">
+        <div class="basis-1/4 flex">
+            <img class="self-center my-auto" src="{{ project.screenshot }}" alt="">
+        </div>
+        <div class="basis-3/4 pl-4">
+            <h3>{{ project.title }}</h3>
+            <p>{{ project.description }}</p>
+        </div>
+    </div>
+    <div class="my-4 border-solid border-0 border-b rounded-full border-slate-800"></div>
+    {% endfor %}
+</div>

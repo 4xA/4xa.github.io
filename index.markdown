@@ -4,9 +4,19 @@
 
 layout: home
 ---
+{% include profile_picture.html %}
 
-<div class="w-full">
-    <div class="mx-auto right-4 top-12 bg-white rounded shadow border p-2 w-64 invisible md:visible">
-        <img src="/assets/images/profilepic.jpg" >
-    </div>
-</div>
+I am an experienced Software Engineer with {% include years_of_experience.html %}+ years of experience developing
+production quality robust and scalable high-availaibity software solutions that drive key bussiness operations in
+insights and analaytics.
+<br />
+<br />
+
+## Skills
+ - Skill 1
+ - Skill 2
+ - Skill 3
+
+## Projects
+
+{% include projects.html %}

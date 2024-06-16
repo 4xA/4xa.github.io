@@ -1,5 +1,10 @@
 {
   "devDependencies": {
     "tailwindcss": "^3.4.4"
+  },
+  "scripts": {
+    "serve": "jekyll serve",
+    "tailwind": "npx tailwindcss -i ./assets/tailwind-in.css -o ./assets/tailwind.css --watch",
+    "full-serve": "npx tailwindcss -i ./assets/tailwind-in.css -o ./assets/tailwind.css && jekyll serve"
   }
 }
