@@ -1,34 +1,17 @@
-- name: Docker
-  emoji: ":whale:"
-- name: Git
-  emoji: ":octocat:"
-- name: Kubernetes
-  emoji: ":four_leaf_clover:"
-- name: Linux
-  emoji: ":tux:"
-- name: Cloud Platforms (AWS, GCP, Azure)
-  emoji: ":cloud:"
-- name: Infrastructure as Code (Terraform, Ansible)
-  emoji: ":gear:"
-- name: Programming Languages (Python, Java, Go)
-  emoji: ":computer:"
-- name: Version Control Systems (Git, SVN)
-  emoji: ":git:"
-- name: CI/CD Pipelines (Jenkins, GitLab CI/CD)
-  emoji: ":construction:"
-- name: Unit Testing (Jest, Mocha)
-  emoji: ":hammer_and_wrench:"
-- name: API Design
-  emoji: ":handshake:"
-- name: Database Technologies (SQL, NoSQL)
-  emoji: ":database:"
+- name: Java
+- name: Spring Framework
+- name: Spring Boot Framework
+- name: Azure Cloud Platform
+- name: Terraform IaC
+- name: Continuous Integration and Delivery (GitHub Actions, Jenkins)
+- name: Testing (E2Es, Integration, Unit)
+- name: Microservice Architectures
+- name: 12 Factor Apps
+- name: REST APIs
+- name: Relational Databases (MySQL, PostgreSQL, SQLite)
+- name: Non-Relational Databases (MongoDB)
+- name: Instrumentation, Monitoring, and Telemetry (Datadog, Dynatrace)
+- name: Containerization 
 - name: Agile Methodologies (Scrum, Kanban)
-  emoji: ":pushpin:"
-- name: Communication and Collaboration
-  emoji: ":speak_no_evil::hear_no_evil::see_no_evil:"
-- name: Problem Solving and Critical Thinking
-  emoji: ":thinking:"
-- name: Time Management and Organization
-  emoji: ":hourglass:"
-- name: Continuous Learning
-  emoji: ":books:"
+- name: Git VCS / GitHub
+- name: Frontend Technologies (JavaScript/TypeScript, React/Vue/Angular, ...)

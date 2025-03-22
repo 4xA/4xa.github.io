@@ -1,7 +1,7 @@
 <div class="flex flex-wrap gap-x-2 gap-y-2 mb-8">
     {% for skill in site.data.skills %}
-    <p class="grow border border-gray-200 border-solid rounded-lg bg-gray-50 m-0 px-2 pb-1 pt-2 text-center text-xs font-semibold">
-        {{ skill.name }} {{ skill.emoji }}
+    <p class="grow border border-gray-200 border-solid rounded-lg bg-gray-50 m-0 px-2 py-2 text-center text-xs font-semibold">
+        {{ skill.name }}{% if skill.emoji != "" %} {{ skill.emoji }}{% endif %}
     </p>
     {% endfor %}
 </div>
