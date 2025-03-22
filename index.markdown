@@ -21,6 +21,6 @@ that increases our team's momentum.
 ## Skills
 {% include skills.html %}
 
-## Projects
+<!-- ## Projects
 
-{% include projects.html %}
+{% include projects.html %} -->
