@@ -1,17 +1,24 @@
+- name: Domain-Driven Design
+- name: Software Architecture
+- name: Microservice & Monolithic Architectures
+- name: Modernization Strategies
 - name: Java
 - name: Spring Framework
 - name: Spring Boot Framework
+- name: Frontend Technologies (JavaScript/TypeScript, React/Vue/Angular, ...)
 - name: Azure Cloud Platform
 - name: Terraform IaC
-- name: Continuous Integration and Delivery (GitHub Actions, Jenkins)
-- name: Testing (E2Es, Integration, Unit)
-- name: Microservice Architectures
-- name: 12 Factor Apps
-- name: REST APIs
+- name: Containerization (Docker)
+- name: Container Orchestration (Kubernetes)
 - name: Relational Databases (MySQL, PostgreSQL, SQLite)
 - name: Non-Relational Databases (MongoDB)
-- name: Instrumentation, Monitoring, and Telemetry (Datadog, Dynatrace)
-- name: Containerization 
-- name: Agile Methodologies (Scrum, Kanban)
+- name: Query Optimization, Indexing, Sharding, Migrations
 - name: Git VCS / GitHub
-- name: Frontend Technologies (JavaScript/TypeScript, React/Vue/Angular, ...)
+- name: CI/CD (GitHub Actions, Jenkins)
+- name: Testing Pyramids (E2Es, Integration, Unit)
+- name: Agile Methodologies (Scrum, Kanban)
+- name: Instrumentation, Monitoring, and Telemetry (Datadog, Dynatrace)
+- name: 12-Factor Apps
+- name: Inter-service Communication Best Practices
+- name: Design Patterns
+- name: SOLID Principles
