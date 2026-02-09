@@ -6,17 +6,17 @@ layout: home
 ---
 {% include profile_picture.html %}
 
-Programming started for me as a vocation in the early days of Nokia phones, trying to write Java :coffee: programs and games for
-Symbian OS on my Nokia N73. While high school me could never figure out how to get it working, I did develop a lifelong love
-for all things software.
+Programming started for me as a vocation in the early days of Nokia phones, when I tried to write Java :coffee: programs
+and games for Symbian OS on my Nokia N73. While my high-school self could never figure out how to create my JAR and install it,
+I did develop a lifelong love for all things software.
 
-After graduating with a BSc in Computer Engineering, I have been professionally developing production web services for
-{% include years_of_experience.html %}+ years delivering cloud and on-prem services both from scratch as well as iterating over
-production services.
+Since earning my Computer Engineering degree, I have been professionally developing production-level applications for
+{% include years_of_experience.html %}+ years in both greenfield and brownfield projects. I set a high standard for myself,
+developing applications with architectures that are driven by their domain, while meeting desired quality-of-service
+requirements of maintainability, extensibility, testability, and all other ‑ilities.
 
-I have a passion for developing SaaS services that are efficient, scalable, maintainable, secure, ... (okay you get it).
-I am a firm advocate for coding standards and local setup. I am always looking for ways to automate and standardize coding practices in a way
-that increases our team's momentum.
+I am a firm advocate for domain-driven design, a seamless deployment path to production, healthy code reviews, automation,
+and efficient local/cloud development.
 
 ## Skills
 {% include skills.html %}
